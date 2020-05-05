@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InClass11</string>
+<string-array name="categories_array">
+        <item>Groceries</item>
+        <item>Invoice</item>
+        <item>Transportation</item>
+        <item>Shopping</item>
+        <item>Rent</item>
+        <item>Trips</item>
+        <item>Utilities</item>
+        <item>Other</item>
+    </string-array>
+</resources>
